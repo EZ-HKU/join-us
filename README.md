@@ -13,7 +13,7 @@ After you have completed the steps, we will review your pull request and merge i
 Good luck!
 
 ## Tips
-- If you are new to Git and GitHub, you can refer to our [Git](/get-started/git) and [GitHub](/get-started/github) guides.
+- If you are new to Git and GitHub, you can refer to our Git and GitHub guides.
 - If you are not familiar with the pull request process, you can refer to the [GitHub documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 - The repository is public, so you can see other people's submissions as well. Feel free to check them out!
 
