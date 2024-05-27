@@ -1,4 +1,4 @@
-# JoinUs-Wiki
+# JoinUs Guide
 This is a guide for new members to join the `EZ-HKU`organization. The guide will help you get started with 
 - `Git`
 - `GitHub` 
