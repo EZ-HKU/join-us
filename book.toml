@@ -3,7 +3,7 @@ authors = ["adlsdztony"]
 language = "en"
 multilingual = true
 src = "src"
-title = "EZ-Wiki"
+title = "JoinUs-Wiki"
 
 
 [rust]
@@ -13,8 +13,8 @@ edition = "2018"
 smart-punctuation = true
 mathjax-support = true
 site-url = "/mdBook/"
-git-repository-url = "https://github.com/EZ-HKU/EZ-Wiki"
-edit-url-template = "https://github.com/EZ-HKU/EZ-Wiki/edit/src/{path}"
+git-repository-url = "https://github.com/EZ-HKU/join-us"
+edit-url-template = "https://github.com/EZ-HKU/join-us/edit/main/{path}"
 
 [output.html.playground]
 editable = true
