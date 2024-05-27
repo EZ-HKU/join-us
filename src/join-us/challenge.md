@@ -15,7 +15,7 @@ After you have completed the steps, we will review your pull request and merge i
 Good luck!
 
 ## Tips
-- If you are new to Git and GitHub, you can refer to our [Git](https://ez-hku.github.io/join-us/get-started/git.html) and [GitHub](https://ez-hku.github.io/join-us/get-started/github.html) guides.
+- If you are new to Git and GitHub, you can refer to our [Git](https://join-us.hku.icu/get-started/git.html) and [GitHub](https://join-us.hku.icu/get-started/github.html) guides.
 - If you are not familiar with the pull request process, you can refer to the [GitHub documentation](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 - The repository is public, so you can see other people's submissions as well. Feel free to check them out!
 
